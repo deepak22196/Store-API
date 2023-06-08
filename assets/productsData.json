@@ -1,0 +1,37 @@
+[
+  {
+    "name": "iphone12",
+    "company": "apple",
+    "price": 10000
+  },
+  {
+    "name": "iphone13",
+    "company": "apple",
+    "price": 13000
+  },
+  {
+    "name": "iphone14",
+    "company": "apple",
+    "price": 14000
+  },
+  {
+    "name": "iphone15",
+    "company": "apple",
+    "price": 15000
+  },
+  {
+    "name": "9rt",
+    "company": "onePlus",
+    "price": 30000
+  },
+  {
+    "name": "lumia",
+    "company": "nokia",
+    "price": 10000
+  },
+  {
+    "name": "ericson",
+    "company": "sony",
+    "price": 5000
+  }
+]
