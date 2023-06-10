@@ -23,7 +23,7 @@ const productSchema = new mongoose.Schema({
   },
   company: {
     type: String,
-    enum: ["sony", "onePlus", "nokia", "apple"],
+    enum: ["sony", "onePlus", "nokia", "apple", "mi", "lenovo", "moto"],
     message: "{value is not supported}",
   },
 });
